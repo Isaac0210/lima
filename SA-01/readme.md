@@ -1,0 +1,1 @@
+quis deixar as paletas de cores mais claras na parte de traz, e apenas os nomes com uma cor mais escura, combinando com a logo do senai
