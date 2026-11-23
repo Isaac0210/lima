@@ -131,6 +131,7 @@ h2{
     grid-template-columns: 1fr 2fr 1fr;
     grid-template-rows: auto 1fr auto;
     height: 500px;
+    grid-gap: 10px;
 }
 
 
